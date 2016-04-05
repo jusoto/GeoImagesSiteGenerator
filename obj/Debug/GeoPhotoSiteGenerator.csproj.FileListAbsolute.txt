@@ -1,0 +1,10 @@
+c:\users\juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\bin\Debug\GeoPhotoSiteGenerator.exe.config
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\bin\Debug\GeoPhotoSiteGenerator.exe
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\bin\Debug\GeoPhotoSiteGenerator.pdb
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\obj\Debug\GeoPhotoSiteGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\obj\Debug\GeoPhotoSiteGenerator.Form1.resources
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\obj\Debug\GeoPhotoSiteGenerator.Properties.Resources.resources
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\obj\Debug\GeoPhotoSiteGenerator.csproj.GenerateResource.Cache
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\obj\Debug\GeoPhotoSiteGenerator.exe
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\obj\Debug\GeoPhotoSiteGenerator.pdb
+C:\Users\Juan\documents\visual studio 2015\Projects\GeoPhotoSiteGenerator\GeoPhotoSiteGenerator\bin\Debug\GeoImagesSiteGenerator.exe.config
